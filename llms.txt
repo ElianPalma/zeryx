@@ -1,0 +1,45 @@
+# Zeryx
+
+> Zeryx es un servicio español de cobro de facturas entre empresas. Habla con los clientes de la empresa por WhatsApp y correo, en su nombre, hasta que pagan: pregunta qué frena el pago, acuerda una fecha, vuelve ese día y envía un enlace para pagar sin registro ni comisión. Cada cobro se concilia con su factura y el dueño recibe un resumen diario por WhatsApp. Es, en sus palabras, tu departamento de cobro sin contratar a nadie.
+
+- Lema: Tú vendes. Zeryx cobra.
+- Web: https://zeryx.io
+- Mercado: España, facturas entre empresas
+- Para quién: Empresas en España que facturan a otras empresas y tienen facturas vencidas cada mes: desde pymes sin nadie dedicado al cobro hasta empresas medianas con un equipo de administración y grupos con varias sociedades.
+- Precio: Pyme 149 €/mes; Mediana desde 490 €/mes + 1,5 % de lo vencido cobrado; Grande a propuesta. Para el cliente que paga, 0 €.
+- Acceso: Zeryx arranca con pocas empresas en España. El acceso se pide por WhatsApp y contesta una persona. Sin permanencia: se paga mes a mes.
+- Dinero: Zeryx no es un banco ni guarda el dinero: el pago va del banco del cliente a la cuenta de la empresa a través de la pasarela de pago, y Zeryx lo casa con la factura.
+
+## Funciones
+
+- [Todas las funciones](https://zeryx.io/producto/): índice del producto.
+- [Cobro por WhatsApp y correo](https://zeryx.io/producto/cobro-por-whatsapp/): Zeryx escribe a cada cliente en tu nombre, pregunta qué frena el pago y no lo suelta hasta que paga.
+- [Promesas de pago](https://zeryx.io/producto/promesas-de-pago/): Cuando el cliente dice «el viernes», Zeryx lo apunta y vuelve el viernes.
+- [Enlace de pago](https://zeryx.io/producto/enlace-de-pago/): Tu cliente abre el enlace, ve la factura y paga. Sin registrarse y sin pagar nada de más.
+- [Conciliación](https://zeryx.io/producto/conciliacion/): Cuando tu cliente paga por el enlace, la factura se marca como cobrada sola.
+- [Resumen diario](https://zeryx.io/producto/resumen-diario/): Cada mañana a las 8:00, en tu WhatsApp: qué se cobró, qué se prometió y qué necesita tu decisión.
+- [Tus reglas](https://zeryx.io/producto/reglas/): Qué clientes no se tocan, qué tono, cuántos mensajes y cuándo parar. Lo decides tú.
+- [Garantía](https://zeryx.io/producto/garantia/): La mitad para Zeryx, la mitad para ti. Si no cobra diez puntos más, te devolvemos las cuotas.
+- [Integraciones](https://zeryx.io/producto/integraciones/): Facturación de Zeryx, Odoo o un Excel. En marcha en un día.
+
+## En el plan (todavía no disponible)
+
+- [Adelanto de facturas](https://zeryx.io/producto/adelanto-de-facturas/): En el plan: cobrar ya las facturas que sabemos que se van a pagar.
+- [Pagos y saldos](https://zeryx.io/producto/pagos-y-saldos/): En el plan: pagos a proveedores con aprobaciones y el saldo de todos tus bancos juntos.
+
+## Precios
+
+- **Pyme** — 149 €/mes. Para empresas que facturan a otras empresas y tienen unas cuantas vencidas al mes. Todo incluido. Sin porcentaje. Incluye: Cobro por WhatsApp y correo, en tu nombre, Facturas vencidas sin límite, Enlace de pago y conciliación, Facturación de Zeryx, Odoo o Excel, Resumen diario y registro completo.
+- **Mediana** — desde 490 €/mes. Para empresas con un equipo de administración que ya reclama. + 1,5 % de lo vencido que Zeryx cobra hablando. 490, 990 o 1.490 € según tamaño. Incluye: Todo lo de Pyme, Control: la mitad Zeryx, la mitad tú, Marcador propio a los 90 días, Garantía: +10 puntos o te devolvemos las cuotas, Reglas por cliente y por importe.
+- **Grande** — a propuesta. Para grupos con varias sociedades o miles de facturas al mes. Cuota fija más un porcentaje a la baja con el volumen. Incluye: Todo lo de Mediana, Varias sociedades y varios equipos, Implantación con Odoo incluida, Un responsable de tu cuenta.
+- **Tu cliente** — 0 €, siempre. Pagar por el enlace nunca le cuesta nada: sin registro, sin app y sin comisión.
+
+Precios sin IVA. Sin permanencia: pagas mes a mes y paras cuando quieras. Y el mismo precio para todos: no hacemos excepciones.
+
+## Preguntas frecuentes
+
+- [Preguntas frecuentes](https://zeryx.io/#faq): aprobación de mensajes, trato a los clientes, puesta en marcha, programas compatibles, dónde está el dinero, garantía y permanencia.
+
+## Optional
+
+- [Versión completa para modelos de lenguaje](https://zeryx.io/llms-full.txt)
