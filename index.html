@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- Si la intro ya se vio, oculta la cortina desde el primer pintado (clave = INTRO_KEY de src/config.js) -->
+    <script>try{if(localStorage.getItem('zx-intro-visto')==='1'&&!/[?&]intro=1/.test(location.search))document.documentElement.classList.add('zx-nointro')}catch(e){}</script>
+    <style>.zx-nointro [data-curtain]{display:none!important}</style>
+    <!--seo:start-->
+    <title>Zeryx · Cobros B2B, pagos y tesorería con agentes de IA</title>
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <!--seo:end-->
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
